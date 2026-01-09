@@ -1,5 +1,3 @@
-# Breast Cancer Treatment Prediction
-
 # Breast Cancer Treatment Response Prediction (MLP)
 
 ## Overview
